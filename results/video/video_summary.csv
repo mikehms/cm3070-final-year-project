@@ -1,0 +1,4 @@
+method,runtime_s,flicker_mae,mean_eval_style,mean_ssim
+independent,588.0,0.0491,-4.6755,0.4909
+warm,273.2,0.01619,-4.7433,0.4886
+temporal,273.4,0.00547,-4.772,0.5027

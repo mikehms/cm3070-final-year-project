@@ -1,0 +1,6 @@
+{'method': 'independent', 'runtime_s': 588.0, 'flicker_mae': 0.0491, 'mean_eval_style': -4.6755, 'mean_ssim': 0.4909}
+{'method': 'warm', 'runtime_s': 273.2, 'flicker_mae': 0.01619, 'mean_eval_style': -4.7433, 'mean_ssim': 0.4886}
+/home/claude/nst_final/nst/core.py:137: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at /__w/pytorch/pytorch/torch/csrc/autograd/generated/python_variable_methods.cpp:820.)
+  "temporal": float(lt),
+{'method': 'temporal', 'runtime_s': 273.4, 'flicker_mae': 0.00547, 'mean_eval_style': -4.772, 'mean_ssim': 0.5027}
